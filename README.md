@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Miaw](https://imgur.com/NhotD8b "header")
+![Miaw](https://i.imgur.com/NhotD8b.jpg "header")
 
 <!--
 **fariskamaludin/fariskamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
